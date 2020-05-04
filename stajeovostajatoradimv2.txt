@@ -1,0 +1,8 @@
+1.Naštej Glavne tri vzroke za izgubo podatkov.
+- Posameznikova napaka (npr. da uporabnik sam izbriše podatke),  strojna napaka (npr. okvara diska, strežnika ali delovne postaje), sprememba podatkov (npr. napaka v programski opremi, okužba z virusom).
+
+2.Opišite primer izgube podatkov, s katerim ste se že srečali ( doma/šola/sosedi..)
+-Izgubil sem nekaj nekaj slik in programov, ki sem si jih prenesel s telefona na onedrive oblak, in se je zgodila ena napaka in so mi se vse slike zbrisale, ne vem zakaj.
+
+3.Kateri dve opravili običajno uporabljamo v podjetju za zaščito podatkov?
+Arhiviranje in varnostno kopiranje.
